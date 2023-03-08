@@ -1,6 +1,5 @@
 # Initial file
 
-
 # Make sure the code not directly push to main branch
 
 # Edit branch protecting rules
@@ -9,3 +8,4 @@
 
 # Make sure the code not directly push to main branch
 
+# Check new rule
