@@ -10,4 +10,8 @@
 
 ## Check new rule
 
+## Check new rule
+
+## the last rule
+
 ## Scale down font size
